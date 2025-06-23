@@ -3,8 +3,8 @@
   <h1><b>CTFLabs-lD</b></h1>
 </div>
 
-<a href="https://www.facebook.com/groups/programmerhandal">
-  <img src="./cdn/banner.png" align=center style="border-radius: 20px">
+<a href="https://www.facebook.com/groups/1759595061659167/">
+  <img src="./cdn/baner.png" align=center style="border-radius: 20px">
 </a>
 
 <hr>
